@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-# 0-square.py by IBIBO MANUEL
+# 0-square.py by Ibibo Manuel
+"""Defines a square """
 
-"""Defines a square"""
 
 class Square:
     """Does nothing"""
